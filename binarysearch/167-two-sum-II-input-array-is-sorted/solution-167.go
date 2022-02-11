@@ -1,4 +1,4 @@
-package twopointer
+package binarysearch
 
 func twoSum(nums []int, target int) []int {
 	var n = len(nums)
